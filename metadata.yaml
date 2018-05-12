@@ -1,0 +1,30 @@
+_repo: Mary-BroomeA-Comedy-in-Four-Acts_46298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46298-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Monkhouse, Allan
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '43705'
+    url: http://www.gutenberg.org/2009/agents/43705
+description: ''
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Social classes -- Drama'
+- !lcsh 'England -- Drama'
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'Adultery -- Drama'
+title: 'Mary Broome: A Comedy, in Four Acts'
+url: http://www.gutenberg.org/ebooks/46298
